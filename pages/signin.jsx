@@ -13,7 +13,6 @@ import {
 import "react-toastify/dist/ReactToastify.css";
 import { AuthLayout } from "../components/layouts/authLayout";
 import UserStore from "../services/store/user.store";
-import Cookiess from "js-Cookies";
 import Cookies from "js-cookie";
 import useCrypto from "../services/cryptoJs";
 // import { Logo } from '@/components/Logo'
